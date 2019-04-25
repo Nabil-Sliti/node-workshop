@@ -17,8 +17,6 @@ npm test -- **/ex01.test.js
 [exercice 3](./03_fs/README.md)  
 [exercice 4](./04_http/README.md)
 
-## jour 2: projet
-
 Il faut se placer sur la branche *projet-express*: `git checkout -f projet-express`.
 
 - [Step 01](https://github.com/nabil-sliti/node-workshop/tree/project-01-readme): «Hello, World !»
